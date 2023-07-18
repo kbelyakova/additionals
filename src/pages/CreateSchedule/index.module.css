@@ -1,0 +1,8 @@
+.wrapper {
+  padding: 100px 30px;
+}
+
+.row {
+  display: flex;
+  align-items: end;
+}
